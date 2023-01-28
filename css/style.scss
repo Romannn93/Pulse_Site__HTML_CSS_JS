@@ -1,0 +1,29 @@
+@import 'bootstrap-reboot.min';
+@import 'bootstrap-grid.min';
+@import 'font';
+@import 'slick';
+@import 'animate';
+
+@import 'variables';
+*{
+    font-family: 'Museo Sans Cyrl', sans-serif;
+}
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+}
+@import 'promo';
+@import 'header';
+@import 'buttons';
+@import 'advantages';
+@import 'consultation';
+@import 'forms';
+@import 'carousel';
+@import 'catalog';
+@import 'reviews';
+@import 'footer';
+@import 'modal';
+@import 'pageup';
+@import 'animations';
+
+@import 'media';
